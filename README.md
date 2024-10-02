@@ -18,7 +18,7 @@
 
 ## 📊 My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalledChristian&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalledChristian&layout=compact&langs_count=8)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalledChristian&show_icons=true&theme=radical)
 
