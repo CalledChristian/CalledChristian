@@ -20,7 +20,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalledChristian&theme=radical&layout=compact&langs_count=8)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalledChristian&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalledChristian&show_icons=true&theme=radical&langs_count=8)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CalledChristian&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
