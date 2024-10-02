@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development with Java and Spring Boot
 - 💻 Check out some of my favorite projects below:
 
-## My Projects
+## Colaborative Projects
 
 - 🛠️ [Task Manager API](https://github.com/johndoe/task-manager-api) – A RESTful API built with Spring Boot
 - 🌍 [My Portfolio Website](https://github.com/johndoe/portfolio) – A personal portfolio built with HTML, CSS, and JavaScript
