@@ -13,7 +13,7 @@
 - Java | Spring Boot | Node.js | SQL | JavaScript | Python | HTML/CSS | Azure | AWS | Docker
 
 ## Get In Touch
-- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/christian-gf)
+- LinkedIn: www.linkedin.com/in/christian-gf
 - Email: christian.gonzalesf@pucp.edu.pe
 
 
