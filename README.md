@@ -16,7 +16,13 @@
 - LinkedIn: www.linkedin.com/in/christian-gf
 - Email: christian.gonzalesf@pucp.edu.pe
 
+## 📊 My GitHub Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **CalledChristian/CalledChristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
