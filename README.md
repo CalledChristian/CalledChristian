@@ -4,17 +4,16 @@
  
 ## Proyectos de Portafolio 🌍💻:
 
-- 📝 Gestor de Tareas - (https://github.com/johndoe/task-manager-api):
+- 📝 Gestor de Tareas - (https://github.com/CalledChristian/AplicacionGestorDeTareas.git):
 Aplicación Web de Gestor de Tareas desarrollado en Spring boot
 - 🌍 Consulta País - (https://github.com/johndoe/portfolio):
 Aplicación Web dirigida a la consulta de países a través del consumo de la API RESTful "REST COUNTRIES"
 
 ## Proyectos Académicos 🎓💻:
 
-- 📝 Gestor de Tareas - (https://github.com/johndoe/task-manager-api):
-Aplicación Web de Gestor de Tareas desarrollado en Spring boot
-- 🌍 Consulta País - (https://github.com/johndoe/portfolio):
-Aplicación Web dirigida a la consulta de países a través del consumo de la API RESTful "REST COUNTRIES"
+- 🏥 APLICACIÓN WEB DE REGISTRO Y ADMINISTRACIÓN DE SEDES DE UNA CLINICA - (https://github.com/sebas1310/Grupo1-Gtics.git):
+- 🏫 APLICACIÓN WEB DE REGISTRO DE INCIDENCIAS EN EL CAMPUS PUCP  - (https://github.com/angie2512/Gigacontrol_g2.git):
+- 📳 APLICACIÓN MÓVIL PARA LA GESTIÓN DE INVENTARIO, DESPLIEGUE Y ATENCIÓN DE AVERÍAS EN UNA EMPRESA DE TELECOMUNIACIONES  - (https://github.com/willydreamer/Proyect_IoT_Aurora.git):
  
 ## Tecnologías 💻:
 - Backend 👨‍💻: Java - Spring boot | Node.js - Express.js 
