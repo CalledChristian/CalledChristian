@@ -4,7 +4,7 @@
  
 ## Proyectos de Portafolio 🌍💻:
 
-- 🛠️ [Task Manager API](https://github.com/johndoe/task-manager-api) – A RESTful API built with Spring Boot
+- 🛠️😘 [Task Manager API](https://github.com/johndoe/task-manager-api) – A RESTful API built with Spring Boot
 - 🌍 [My Portfolio Website](https://github.com/johndoe/portfolio) – A personal portfolio built with HTML, CSS, and JavaScript
 - 📈 [Data Analysis in Python](https://github.com/johndoe/data-analysis-python) – A Jupyter Notebook project for analyzing sales data
  
