@@ -11,9 +11,9 @@
 ## Proyectos de Portafolio 🌍💻:
 
 - 📝 Gestor de Tareas
-- Link: 35.188.146.179:8080
-- Repositorio: https://github.com/CalledChristian/AplicacionGestorDeTareas.git):
-Aplicación Web de Gestor de Tareas desarrollado en Spring boot
+* Link: 35.188.146.179:8080
+* Repositorio: https://github.com/CalledChristian/AplicacionGestorDeTareas.git)
+* Aplicación Web de Gestor de Tareas desarrollado en Spring boot
 - 🌍 Consulta País - (https://github.com/johndoe/portfolio):
 Aplicación Web dirigida a la consulta de países a través del consumo de la API RESTful "REST COUNTRIES"
 
