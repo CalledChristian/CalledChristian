@@ -1,18 +1,20 @@
 # 👋 Hi, I'm CalledChristian!
 
-- 🌱 I’m currently learning Web Development with Java and Spring Boot
-- 💻 Check out some of my favorite projects below:
-
-## Colaborative Projects
+- 🌱 Desarrollador Web , especializado en backend con Java - Spring boot y Node.js ; y en base de datos MySQL - PostgreSQL. Con Experiencia en el Desarrollo de Aplicaciones Web en la Nube en las Plataformas de Google Cloud (GCP) y Azure ; implementando y consumiendo API RESTful. 
+ 
+## Proyectos de Portafolio 🌍💻:
 
 - 🛠️ [Task Manager API](https://github.com/johndoe/task-manager-api) – A RESTful API built with Spring Boot
 - 🌍 [My Portfolio Website](https://github.com/johndoe/portfolio) – A personal portfolio built with HTML, CSS, and JavaScript
 - 📈 [Data Analysis in Python](https://github.com/johndoe/data-analysis-python) – A Jupyter Notebook project for analyzing sales data
+ 
+## Tecnologías 💻:
+- Backend: Java - Spring boot | Node.js - Express.js 
+- Frontend: JavaScript - JQuery | React.js | Bootstrap | HTML5 - CSS3
+- Herramientas: API RESTful | Postman | Git - Github | Docker
+- Plataformas Cloud: Google Cloud (GCP) | Azure | AWS
 
-## Technologies I Work With
-- Java | Spring Boot | Node.js | SQL | JavaScript | Python | HTML/CSS | Azure | AWS | Docker
-
-## Get In Touch
+## Contacto: 
 - LinkedIn: www.linkedin.com/in/christian-gf
 - Email: christian.gonzalesf@pucp.edu.pe
 
