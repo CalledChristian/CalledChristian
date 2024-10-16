@@ -17,10 +17,10 @@ Aplicación Web de Gestor de Tareas desarrollado en Spring boot
 Aplicación Web dirigida a la consulta de países a través del consumo de la API RESTful "REST COUNTRIES"
  
 ## Tecnologías 💻:
-- Backend: Java - Spring boot | Node.js - Express.js 
-- Frontend: JavaScript - JQuery | React.js | Bootstrap | HTML5 - CSS3
-- Herramientas: API RESTful | Postman | Git - Github | Docker
-- Plataformas Cloud: Google Cloud (GCP) | Azure | AWS
+- Backend 👨‍💻: Java - Spring boot | Node.js - Express.js 
+- Frontend 💻: JavaScript - JQuery | React.js | Bootstrap | HTML5 - CSS3
+- Herramientas 🛠⚙: API RESTful | Postman | Git - Github | Docker
+- Plataformas Cloud 🌍☁: Google Cloud (GCP) | Azure | AWS
 
 ## Contacto: 
 - Correo: christian.gonzalesf@pucp.edu.pe
