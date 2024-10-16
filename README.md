@@ -5,6 +5,11 @@
 ## Proyectos de Portafolio 🌍💻:
 
 - 📝 Gestor de Tareas (https://github.com/johndoe/task-manager-api) – Aplicación Web de Gestor de Tareas desarrollado en Spring boot
+- 🌍 Consulta País (https://github.com/johndoe/portfolio) – Aplicación Web dirigida a la consulta de países a través del consumo de la API RESTful "REST COUNTRIES"
+
+## Proyectos Académicos 🎓💻:
+
+- 📝 Gestor de Tareas (https://github.com/johndoe/task-manager-api) – Aplicación Web de Gestor de Tareas desarrollado en Spring boot
 - 🌍 Consulta País (https://github.com/johndoe/portfolio) – Aplicación Web dirigida a la consulta de países a través del consumo de la API RESTful "REST COUNTRIES"  
  
 ## Tecnologías 💻:
