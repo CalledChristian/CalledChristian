@@ -15,8 +15,8 @@
 - Plataformas Cloud: Google Cloud (GCP) | Azure | AWS
 
 ## Contacto: 
+- Correo: christian.gonzalesf@pucp.edu.pe
 - LinkedIn: www.linkedin.com/in/christian-gf
-- Email: christian.gonzalesf@pucp.edu.pe
 
 ## 📊 My GitHub Stats
 
