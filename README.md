@@ -13,11 +13,11 @@
 - 📝 Gestor de Tareas
 * Link: 35.188.146.179:8080
 * Repositorio: https://github.com/CalledChristian/AplicacionGestorDeTareas.git
-* Aplicación Web de Gestor de Tareas desarrollado en Spring boot
+* Aplicación Web de Gestor de Tareas desarrollado en Java - Spring boot
 - 🌍 Consulta País
 * Link: 35.188.146.179:8081
 * Repositorio: https://github.com/CalledChristian/AplicacionConsultaPais.git
-* Aplicación Web dirigida a la consulta de países a través del consumo de la API RESTful "REST COUNTRIES"
+* Aplicación Web dirigida a la consulta de países a través del consumo de la API RESTful "REST COUNTRIES" ; desarrollado en Java - Spring boot
 
 ## Tecnologías 💻:
 - Backend 👨‍💻: Java - Spring boot | Node.js - Express.js 
