@@ -8,6 +8,11 @@
 * Link: 35.188.146.179:8080
 * Repositorio: https://github.com/CalledChristian/AplicacionGestorDeTareas.git
 * Aplicación Web de Gestor de Tareas desarrollado en Java - Spring boot
+  
+- 🛠⚙ API RESTful - Gestor de Productos
+* Repositorio: https://github.com/CalledChristian/API-RESTful-Gestor-de-Productos-.git
+* API RESTful para la consulta y gestión de productos variados , desarrollado con Node.js - Express.js ; y gestionado en base de datos MySQL.
+  
 - 🌍 Consulta País
 * Link: 35.188.146.179:8081
 * Repositorio: https://github.com/CalledChristian/AplicacionConsultaPais.git
