@@ -27,6 +27,7 @@
 ## Tecnologías 💻:
 - Backend 👨‍💻: Java - Spring boot | Node.js - Express.js 
 - Frontend 💻: JavaScript - JQuery | React.js | Bootstrap | HTML5 - CSS3
+- Base de Datos 🛢 : MySQL | PostgreSQL | MongoDB | Firebase Firestore
 - Herramientas 🛠⚙: API RESTful | Postman | Git - Github | Docker
 - Plataformas Cloud 🌍☁: Google Cloud (GCP) | Azure | AWS
 
