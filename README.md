@@ -5,7 +5,7 @@
 ## Proyectos de Portafolio 🌍💻:
 
 - 📝 Gestor de Tareas
-* Link: 35.188.146.179:8080
+* URL: 35.188.146.179:8080
 * Repositorio: https://github.com/CalledChristian/AplicacionGestorDeTareas.git
 * Aplicación Web de Gestor de Tareas desarrollado en Java - Spring boot
   
@@ -14,7 +14,7 @@
 * API RESTful para la consulta y gestión de productos variados , desarrollado con Node.js - Express.js ; y gestionado en base de datos MySQL.
   
 - 🌍 Consulta País
-* Link: 35.188.146.179:8081
+* URL: 35.188.146.179:8081
 * Repositorio: https://github.com/CalledChristian/AplicacionConsultaPais.git
 * Aplicación Web dirigida a la consulta de países a través del consumo de la API RESTful "REST COUNTRIES" ; desarrollado en Java - Spring boot
 
