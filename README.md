@@ -26,7 +26,7 @@
 - 📳 APLICACIÓN MÓVIL PARA LA GESTIÓN DE INVENTARIO, DESPLIEGUE Y ATENCIÓN DE AVERÍAS EN UNA EMPRESA DE TELECOMUNIACIONES  - (https://github.com/willydreamer/Proyect_IoT_Aurora.git)
 
 ## Tecnologías 💻:
-- Backend 👨‍💻: Java - Spring boot | Node.js - Express.js 
+- Backend 👨‍💻: Java - Spring boot | Node.js - Express.js | Python 
 - Frontend 💻: JavaScript - JQuery | React.js | Bootstrap | HTML5 - CSS3
 - Base de Datos 🛢 : MySQL | PostgreSQL | MongoDB | Firebase Firestore
 - Herramientas 🛠⚙: API RESTful | Postman | Git - Github | Docker
