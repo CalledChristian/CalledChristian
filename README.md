@@ -10,6 +10,7 @@
 * Aplicación Web de Gestor de Tareas desarrollado en Java - Spring boot
   
 - 🛠⚙ API RESTful - Gestor de Productos
+* URL: http://34.27.20.11:3000/api/productos
 * Repositorio: https://github.com/CalledChristian/API-RESTful-Gestor-de-Productos-.git
 * API RESTful para la consulta y gestión de productos variados , desarrollado con Node.js - Express.js ; y gestionado en base de datos MySQL. 
   
