@@ -1,6 +1,6 @@
 # 👋 Hi, I'm CalledChristian!
 
-- Desarrollador de Software 🌍💻 , especializado en backend con Java - Spring boot , Node.js - Express.js ; y en base de datos relacionales MySQL - PostgreSQL. Con Experiencia en el Desarrollo de Aplicaciones Web y Móviles, desplegadas en las Plataformas como Google Cloud (GCP) ,Azure , AWS ; implementando y consumiendo API RESTful y Web Services.
+- Software Developer 🌍💻 , especializado en backend con Java - Spring boot , Node.js - Express.js ; y en base de datos relacionales MySQL - PostgreSQL. Con Experiencia en el Desarrollo de Aplicaciones Web y Móviles, desplegadas en las Plataformas como Google Cloud (GCP) ,Azure , AWS ; implementando y consumiendo API RESTful y Web Services.
 
 ## Proyectos de Portafolio 🌍💻:
 
