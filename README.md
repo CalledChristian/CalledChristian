@@ -2,6 +2,12 @@
 
 - Software Developer 🌍💻 , especializado en backend con Java - Spring boot , Node.js - Express.js ; y en base de datos relacionales MySQL - PostgreSQL. Con Experiencia en el Desarrollo de Aplicaciones Web y Móviles, desplegadas en las Plataformas de Google Cloud (GCP) , Azure , AWS ; implementando y consumiendo API RESTful y Web Services.
 
+## Proyectos Académicos 🎓💻:
+
+- 🏥 APLICACIÓN WEB DE REGISTRO Y ADMINISTRACIÓN DE SEDES DE UNA CLINICA - (https://github.com/sebas1310/Grupo1-Gtics.git)
+- 🏫 APLICACIÓN WEB DE REGISTRO DE INCIDENCIAS EN EL CAMPUS PUCP  - (https://github.com/angie2512/Gigacontrol_g2.git)
+- 📳 APLICACIÓN MÓVIL PARA LA GESTIÓN DE INVENTARIO, DESPLIEGUE Y ATENCIÓN DE AVERÍAS EN UNA EMPRESA DE TELECOMUNIACIONES  - (https://github.com/willydreamer/Proyect_IoT_Aurora.git)
+
 ## Proyectos de Portafolio 🌍💻:
 
 - 📝 Gestor de Tareas
@@ -18,12 +24,6 @@
 * URL: http://35.188.146.179:8081
 * Repositorio: https://github.com/CalledChristian/AplicacionConsultaPais.git
 * Aplicación Web dirigida a la consulta de países a través del consumo de la API RESTful "REST COUNTRIES" ; desarrollado en Java - Spring boot
-
-## Proyectos Académicos 🎓💻:
-
-- 🏥 APLICACIÓN WEB DE REGISTRO Y ADMINISTRACIÓN DE SEDES DE UNA CLINICA - (https://github.com/sebas1310/Grupo1-Gtics.git)
-- 🏫 APLICACIÓN WEB DE REGISTRO DE INCIDENCIAS EN EL CAMPUS PUCP  - (https://github.com/angie2512/Gigacontrol_g2.git)
-- 📳 APLICACIÓN MÓVIL PARA LA GESTIÓN DE INVENTARIO, DESPLIEGUE Y ATENCIÓN DE AVERÍAS EN UNA EMPRESA DE TELECOMUNIACIONES  - (https://github.com/willydreamer/Proyect_IoT_Aurora.git)
 
 ## Tecnologías 💻:
 - Backend 👨‍💻: Java - Spring boot | Node.js - Express.js | Python 
