@@ -33,7 +33,7 @@
 - Plataformas Cloud 🌍☁: Google Cloud (GCP) | Azure | AWS
 
 ## Contacto: 
-- CV: 
+- CV: https://drive.google.com/file/d/1lbIX2LONgkx9knElEgHNpRhgtzIVUuDP/view?usp=sharing
 - Correo: christian.gonzalesf@pucp.edu.pe
 - LinkedIn: www.linkedin.com/in/christian-gf
 
