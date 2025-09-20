@@ -11,7 +11,7 @@
 ## Proyectos de Portafolio 🌍💻:
 
 - 📝 Gestor de Tareas
-* URL: http://35.188.146.179:8080
+* URL: https://spring-gestor-tareas.onrender.com
 * Repositorio: https://github.com/CalledChristian/AplicacionGestorDeTareas.git
 * Aplicación Web de Gestor de Tareas desarrollado en Java - Spring boot
   
