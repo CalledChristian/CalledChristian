@@ -11,7 +11,7 @@
 ## Proyectos de Portafolio 🌍💻:
 
 - 📝 Gestor de Tareas
-* URL: https://spring-gestor-tareas.onrender.com
+* URL: https://spring-gestor-tareas.zeabur.app
 * Repositorio: https://github.com/CalledChristian/AplicacionGestorDeTareas.git
 * Aplicación Web de Gestor de Tareas desarrollado en Java - Spring boot
   
