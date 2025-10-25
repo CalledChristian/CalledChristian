@@ -29,8 +29,8 @@
 - Backend 👨‍💻: Java - Spring boot | Node.js - Express.js | Python 
 - Frontend 💻: JavaScript - JQuery | React.js | Bootstrap | HTML5 - CSS3
 - Base de Datos 🛢 : MySQL | PostgreSQL | MongoDB | Firebase Firestore
-- Herramientas 🛠⚙: API RESTful | Postman | Git - Github | Docker
-- Plataformas Cloud 🌍☁: Google Cloud (GCP) | Azure | AWS
+- Herramientas 🛠⚙: API RESTful | Postman | Docker | Git - Github 
+- Plataformas Cloud 🌍☁: Google Cloud (GCP) | AWS | Azure 
 
 ## Contacto: 
 - CV: https://drive.google.com/file/d/1lbIX2LONgkx9knElEgHNpRhgtzIVUuDP/view?usp=sharing
